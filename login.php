@@ -5,7 +5,7 @@
 </head>
 <body>
     <form action="proses_login.php" method="POST">
-        <label>Username</label>
+        <label>Username atau Email</label>
         <input type="text" name="username" placeholder="Masukan Username">
         <br>
         <label>Password</label>

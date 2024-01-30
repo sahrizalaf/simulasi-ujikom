@@ -3,7 +3,7 @@
 $host = 'localhost';
 $user = 'user_ngajar';
 $pass = 'user_ngajar123';
-$dbname = 'pwpbxii';
+$dbname = 'digitallibrary';
 
 $koneksi = new mysqli($host, $user, $pass, $dbname);
 
